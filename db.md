@@ -2,12 +2,12 @@ Modellare la struttura di una tabella per memorizzare tutti i dati riguardanti d
 
 Table name: Cars
 
-- Marca
-- Modello
-- Versione
-- Carrozzeria
-- Carburante
-- Anno
-- Paese
-- Cambio
-- Città
+- Brand
+- Model
+- Version
+- Car body
+- Fuel
+- Year
+- Country
+- Transmission
+- City
